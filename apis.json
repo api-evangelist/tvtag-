@@ -1,0 +1,52 @@
+{
+    "name": "TVTag",
+    "description": "Discover what to watch, share what you're watching with friends and fans, and get updates from your favorite shows",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/208-tvtag-.jpg",
+    "tags": [
+        "have api",
+        "interactions",
+        "objects",
+        "semantic",
+        "shopping",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tvtag-\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TVTag",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/208-tvtag-.jpg",
+            "humanURL": "http:\/\/tvtag.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tvtag--openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tvtag--postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "help@telfie.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/telfieapp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/tvtag.com\/"
+        }
+    ]
+}
